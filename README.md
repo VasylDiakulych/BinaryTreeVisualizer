@@ -1,6 +1,6 @@
 # User documentation
 
-## The Binary Tree Visualizer is a graphical application for managing and visualizing binary trees. It allows users to add, remove, and clear nodes while providing an interactive view of the tree structure.
+ The Binary Tree Visualizer is a graphical application for managing and visualizing binary trees. It allows users to add, remove, and clear nodes while providing an interactive view of the tree structure.
 
 ----------------------------------------------------------
 
