@@ -31,7 +31,7 @@ Launching the Application
 
 ----------------------------------------------------------
 
-##Technical Notes
+## Technical Notes
 
 Dynamic Visualization:
 - The spacing between nodes adjusts dynamically based on the depth of the tree, ensuring clarity in the visualization.
